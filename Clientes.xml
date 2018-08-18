@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<clientes>
+    <cliente>
+        <nome>Carlos Duarte</nome>
+        <conta_n>123456789</conta_n>
+    </cliente>
+    <cliente>
+        <nome>Joaquim Silva</nome>
+        <conta_n>111222333</conta_n>
+    </cliente>
+    <cliente>
+        <nome>Maria Albertina</nome>
+        <conta_n>987654321</conta_n>
+    </cliente>
+</clientes>
