@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            //O modulo COM nao se encontra incluido por defeito em PHP V.5.4.5 
+            //O modulo COM nao se encontra incluido por defeito em PHP V.5.4.5, código não funciona
             $word = new COM("word.application") or die ("Impossivel iniciar o word");
             print "Word activo, versao {$word->Version}\n<\br>";
             $word->Visible = 1;
